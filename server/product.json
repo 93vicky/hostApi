@@ -1,0 +1,122 @@
+[
+    {
+        "name":"sony experia l2",
+        "price":20000,
+        "image":"https://5.imimg.com/data5/KC/KY/GLADMIN-30770369/sony-xperia-l2-mobile-500x500.png",
+        "featured":false,
+        "category":"mobile",
+        "company":"sony"
+    },
+    {
+        "name":"hp gaming pc",
+        "price":220000,
+        "image":"https://i8.amplience.net/i/aarons/7360ACZ_00/Pavilion%20Gaming%20Desktop%20Bundle%20With%20Total%20Defense%20Internet%20Security",
+        "featured":true,
+        "category":"laptop",
+        "company":"hp"
+    },
+    {
+        "name":"vivo y21",
+        "price":28000,
+        "image":"https://www.reliancedigital.in/medias/Vivo-Y21-JL-Smartphones-491998268-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNDczNzB8aW1hZ2UvanBlZ3xpbWFnZXMvaGIzL2hlOS85ODY5NjA3ODk1MDcwLmpwZ3xjMzczYmVmMzBmYTY4NjcxYmUzMmJlYmNhODNjOTUxZWNlYjM3NDYyNGIyZmJjNmM5MTAwZThlZDYyMjJiODA1",
+        "featured":false,
+        "category":"mobile",
+        "company":"vivo"
+    },
+    {
+        "name":"oppo 21y",
+        "price":25000,
+        "image":"https://image.oppo.com/content/dam/oppo/in/mkt/phonelist/products/find-x2-blue.png",
+        "featured":true,
+        "category":"mobile",
+        "company":"oppo"
+    },
+    {
+        "name":"samsung a53",
+        "price":19000,
+        "image":"https://m.media-amazon.com/images/I/81Zxb8yAx-L._SX679_.jpg",
+        "featured":true,
+        "category":"mobile",
+        "company":"samsung"
+    },
+    {
+        "name":"samsung a30s",
+        "price":15000,
+        "image":"https://cdnmedia.placewellretail.com/pub/media/catalog/product/cache/d2f155c8ae3423b25125c336aa39579e/s/a/samsung30s.webp",
+        "featured":true,
+        "category":"mobile",
+        "company":"samsung"
+    },
+    {
+        "name":"iphone 12",
+        "price":38000,
+        "image":"https://www.reliancedigital.in/medias/Apple-12-Smartphones-491901534-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0MDY4OXxpbWFnZS9qcGVnfGltYWdlcy9oNzQvaGM3Lzk0MDc3NDM3NTQyNzAuanBnfDM0N2ZmZDFhNTQxZDFkZmY4ZWU2OTRjZTJhZjNlNWEyMjEwZjA1NWExNTM5OTk3YTMyYjQzZWY5ODQ3Y2FhNzk",
+        "featured":true,
+        "category":"mobile",
+        "company":"apple"
+    },
+    {
+        "name":"iphone 12 mini",
+        "price":34000,
+        "image":"https://m.media-amazon.com/images/I/71i+-WmxHWL._SL1500_.jpg",
+        "featured":false,
+        "category":"mobile",
+        "company":"apple"
+    },
+    {
+        "name":"iphone 13",
+        "price":120000,
+        "image":"https://m.media-amazon.com/images/I/61l9ppRIiqL._SL1500_.jpg",
+        "featured":true,
+        "category":"mobile",
+        "company":"apple"
+    },
+    {
+        "name":"iphone 13 max pro",
+        "price":145000,
+        "image":"https://m.media-amazon.com/images/I/619m8rLBQSL._SL1500_.jpg",
+        "featured":true,
+        "category":"mobile",
+        "company":"apple"
+    },
+    {
+        "name":"samsung f20fe 5g",
+        "price":32000,
+        "image":"https://m.media-amazon.com/images/I/81opAVjahuL._SX679_.jpg",
+        "featured":true,
+        "category":"mobile",
+        "company":"samsung"
+    },
+    {
+        "name":"samsung s10",
+        "price":71000,
+        "image":"https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662417218/Croma%20Assets/Communication/Mobiles/Images/217249_al0f6i.png/mxw_640,f_auto",
+        "featured":false,
+        "category":"mobile",
+        "company":"samsung"
+    },
+    {
+        "name":"samsung s10 plus",
+        "price":75000,
+        "image":"https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662417218/Croma%20Assets/Communication/Mobiles/Images/217249_al0f6i.png/mxw_640,f_auto",
+        "featured":true,
+        "category":"mobile",
+        "company":"samsung"
+    },
+    {
+        "name":"hp pavilion 11th generation",
+        "price":85000,
+        "image":"https://m.media-amazon.com/images/I/61LzPiqjg-L._SL1500_.jpg",
+        "featured":true,
+        "category":"laptop",
+        "company":"samsung"
+    },
+    {
+        "name":"hp pavilion 12th generation",
+        "price":98000,
+        "image":"https://cdn1.smartprix.com/rx-i0LUxsBEU-w420-h420/hp-pavilion-15-eg203.jpg",
+        "featured":true,
+        "category":"laptop",
+        "company":"samsung"
+    }
+]
